@@ -1,0 +1,6 @@
+            Seller  Buyer   Amount  
+2012/11/13  Bank1   Bank2   15                              
+2012/11/13  Bank1   Bank2   17             
+2012/11/13  Bank5   Bank3   5              
+2012/11/14  Bank4   Bank2   10                  
+2012/11/14  Bank1   Bank3   22      
